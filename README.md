@@ -1,6 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elyarzv/MinExecutionTime/08e3a75772ce3fed09f6db19c298e8f21d5025bf
-)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elyarzv/MinExecutionTime/Master?filepath=MinExecutionTime.ipynb)
 
 # MinExecutionTime
 A time optimal trajectory planning will be achieved for 2 robots working together to pick and place parts.
