@@ -8,4 +8,3 @@ vega_datasets==0.7.0
 watermark==2.0.1
 sympy==1.8
 matplotlib==3.4.3
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
